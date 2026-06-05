@@ -6,7 +6,7 @@ This repository contains my solution for the Roxiler Systems coding challenge. T
 
 * Clean and maintainable code structure
 * Efficient implementation of the required functionality
-* Responsive and user-friendly interface (if applicable)
+* Responsive and user-friendly interface 
 * Proper error handling and validation
 * Well-documented source code
 
