@@ -12,9 +12,9 @@ This repository contains my solution for the Roxiler Systems coding challenge. T
 
 ## Tech Stack
 
-* Backend: Any one of backend framework from this ExpressJs/Loopback/NestJs
-* Database: PostgreSQL/MySQL
-* Frontend: ReactJs
+* Backend:  ExpressJs / Node.js
+* Database: MySQL
+* Frontend: ReactJs,Tailwaid
 
 ## Setup Instructions
 
